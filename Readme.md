@@ -7,4 +7,4 @@ Projects: A list of projects I've worked on, with brief descriptions and links.
 Contact Me: How to get in touch with me for inquiries or collaborations.
 Feel free to explore the site and get in touch if you have any questions or would like to work together.
 
-<a href="#portfolio.html">Home</a>
+<a href="http://127.0.0.1:5500/portifolio.html">Home</a>
